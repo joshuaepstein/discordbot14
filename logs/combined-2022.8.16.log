@@ -1,0 +1,181 @@
+{"level":30,"time":1663367485740,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1663367485860,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1663367486080,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loading commands..."}
+{"level":20,"time":1663367486087,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1663367486087,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1663367486306,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1663367486323,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1663367486323,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1663367486323,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1663367486324,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1663367487958,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1663367487959,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1663367487959,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1663367487962,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1663367487963,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1663367487964,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1663367487964,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1663367487967,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1663367488027,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1663367488027,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1663367488028,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1663367488029,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1663367488029,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1663367488031,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1663367488031,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1663367488031,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1663367488032,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1663367488032,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1663367488033,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1663367488033,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1663367488033,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1663367488034,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1663367488035,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1663367488035,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1663367488035,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1663367488036,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1663367488036,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1663367488037,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1663367488037,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1663367488037,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1663367488037,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1663367488038,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1663367488038,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1663367488038,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1663367488039,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1663367488039,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1663367488040,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1663367488040,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1663367488041,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1663367488041,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1663367488041,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1663367488042,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1663367488042,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1663367488042,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1663367488042,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1663367488043,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488043,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488052,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488052,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488053,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488058,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488058,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488059,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488059,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488059,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488059,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488060,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488060,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367488061,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1663367488061,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1663367488061,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1663367488062,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1663367488063,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1663367488063,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1663367488064,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1663367488098,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loaded 45 commands"}
+{"level":30,"time":1663367488098,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loaded 36 slash commands"}
+{"level":30,"time":1663367488098,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loading contexts..."}
+{"level":30,"time":1663367488098,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1663367488098,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1663367488099,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loading events..."}
+{"level":30,"time":1663367488158,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1663367488158,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1663367488674,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1663367488989,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1663367488989,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Launching dashboard"}
+{"level":30,"time":1663367489770,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1663367490431,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Logged in as Joshua Epstein Bot#9929! (772442765468106752)"}
+{"level":50,"time":1663367490432,"pid":2476,"hostname":"JoshuaEpsteinPC","err":{"type":"Error","message":"No matching guild","stack":"Error: No matching guild\n    at BotClient.registerInteractions (D:\\# DevProjects\\4 Discord\\v14.0\\src\\structures\\BotClient.js:259:82)\n    at module.exports (D:\\# DevProjects\\4 Discord\\v14.0\\src\\events\\ready.js:31:23)\n    at BotClient.emit (node:events:390:28)\n    at WebSocketManager.triggerClientReady (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:385:17)\n    at WebSocketManager.checkShardsReady (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:368:10)\n    at WebSocketShard.<anonymous> (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:194:14)\n    at WebSocketShard.emit (node:events:390:28)\n    at WebSocketShard.checkReady (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:512:12)\n    at WebSocketShard.onPacket (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:484:16)\n    at WebSocketShard.onMessage (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:321:10)"},"msg":"Failed to register interactions in guild 735916498106843186: No matching guild"}
+{"level":30,"time":1663367574311,"pid":2476,"hostname":"JoshuaEpsteinPC","msg":"Guild Joined: Joshua Epstein Members: 30"}
+{"level":50,"time":1663367658815,"pid":2476,"hostname":"JoshuaEpsteinPC","err":{"type":"TypeError","message":"data.channels.map is not a function","stack":"TypeError: data.channels.map is not a function\n    at D:\\# DevProjects\\4 Discord\\v14.0\\dashboard\\routes\\guild-manager.js:187:10"},"msg":"Unhandled exception: data.channels.map is not a function"}
+{"level":30,"time":1663367953078,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Validating config file and environment variables"}
+{"level":40,"time":1663367953079,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1663367953097,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loading commands..."}
+{"level":20,"time":1663367953104,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1663367953104,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1663367953123,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1663367953129,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1663367953130,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1663367953130,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1663367953130,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1663367953403,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1663367953404,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1663367953404,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1663367953406,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1663367953406,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1663367953407,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1663367953408,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1663367953408,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1663367953413,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1663367953414,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1663367953414,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1663367953415,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1663367953416,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1663367953416,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1663367953417,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1663367953417,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1663367953418,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1663367953418,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1663367953418,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1663367953418,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1663367953419,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1663367953419,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1663367953420,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1663367953420,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1663367953421,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1663367953421,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1663367953422,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1663367953422,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1663367953422,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1663367953422,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1663367953422,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1663367953423,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1663367953423,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1663367953423,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1663367953424,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1663367953424,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1663367953424,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1663367953425,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1663367953425,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1663367953426,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1663367953426,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1663367953426,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1663367953427,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1663367953427,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1663367953427,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1663367953428,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953428,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953428,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953429,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953429,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953429,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953429,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953430,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953431,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953432,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953432,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953432,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953432,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1663367953433,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1663367953433,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1663367953433,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1663367953434,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1663367953435,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1663367953435,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1663367953435,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":30,"time":1663367953443,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loaded 44 commands"}
+{"level":30,"time":1663367953443,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loaded 35 slash commands"}
+{"level":30,"time":1663367953443,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loading contexts..."}
+{"level":30,"time":1663367953444,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1663367953444,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1663367953444,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loading events..."}
+{"level":30,"time":1663367953465,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1663367953465,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1663367953710,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1663367953971,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1663367953972,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Launching dashboard"}
+{"level":30,"time":1663367954043,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1663367954536,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Logged in as Joshua Epstein Bot#9929! (772442765468106752)"}
+{"level":30,"time":1663367954961,"pid":24512,"hostname":"JoshuaEpsteinPC","msg":"Successfully registered interactions"}
+{"level":50,"time":1663368016803,"pid":24512,"hostname":"JoshuaEpsteinPC","err":{"type":"DiscordAPIError","message":"Unknown Message","stack":"DiscordAPIError[10008]: Unknown Message\n    at SequentialHandler.runRequest (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\@discordjs\\rest\\dist\\lib\\handlers\\SequentialHandler.cjs:293:15)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async SequentialHandler.queueRequest (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\@discordjs\\rest\\dist\\lib\\handlers\\SequentialHandler.cjs:99:14)\n    at async REST.request (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\@discordjs\\rest\\dist\\lib\\REST.cjs:52:22)\n    at async MessageManager.edit (D:\\# DevProjects\\4 Discord\\v14.0\\node_modules\\discord.js\\src\\managers\\MessageManager.js:166:15)","rawError":{"message":"Unknown Message","code":10008},"code":10008,"status":404,"method":"PATCH","url":"https://discord.com/api/v10/channels/1020452237165731850/messages/1020464071407054918","requestBody":{"files":[],"json":{"tts":false,"components":[{"type":1,"components":[{"type":2,"emoji":{"name":"🔁","animated":false},"custom_id":"regenMemeBtn","style":2,"disabled":true}]}],"flags":0}}},"msg":"Unhandled exception: Unknown Message"}
